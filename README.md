@@ -1,3 +1,3 @@
-# Asteroid 🎼
+# Asteroid 
 
-Audio on Steroid (asteroid) is a web app for music lovers and creators, featuring an integrated DAW and more musical resources. Coming soon
+Audio on Steroids, otherwise known by its industry trademark Asteroid, is an ongoing open source project featuring a set of software, applications and features with the primary focus on music, interstellar creativity and advanced AI. More description coming soon while in progress...
