@@ -4,3 +4,26 @@
 @tailwind components;
 @tailwind utilities;
 
+:root
+{
+    --glass-white: rgba(255, 255, 255, 0.199);
+    --shadow: rgba(0, 0, 0, 0.432);
+}
+
+
+
+.glassDiv
+{
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
+    border-radius: 10px;
+    box-shadow: 5px 6px 20px var(--glass-white) inset, 
+                7px 7px 30px var(--shadow);
+    background: linear-gradient(to bottom right, var(--glass-white), transparent);
+}
+
+.floatingDiv
+{
+    box-shadow: 3px 6px 12px var(--shadow);
+    border-radius: 10px;
+}
