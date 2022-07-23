@@ -22,7 +22,7 @@
     background: linear-gradient(to bottom right, var(--glass-white), transparent);
 }
 
-.floatingDiv
+.neuDiv
 {
     box-shadow: 3px 6px 12px var(--shadow);
     border-radius: 10px;
