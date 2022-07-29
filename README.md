@@ -6,7 +6,7 @@ The project is mostly focused on three main parts, all of which is integrated to
 
 ## Asteroid: Music Player
 
-Discover undefiltered creativity from across the world. Dive into the magigal experience of underrated or lesser known artistes globally.
+Discover unfiltered creativity from across the world. Dive into the magigal experience of underrated or lesser known artistes globally.
 Get to know your movers and shakers of musical creativity from your region, be it Africa, Asia or the West. Because, as artists we believe,<cite>"It's not about the title or the genre it's just about the feeling..."</cite>. Soon to be available on desktop and mobile devices (Android or IOS)
 
 ## The Lagrange
